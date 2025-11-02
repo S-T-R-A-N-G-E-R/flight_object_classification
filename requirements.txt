@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+tensorflow   # or replace with torch if you prefer PyTorch
+scikit-learn
+matplotlib
+pillow
+tqdm
+jupyter
+openimages  # OID downloader (OIDv6 / openimages python package)
